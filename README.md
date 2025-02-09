@@ -84,8 +84,8 @@
 ### Installation On Kali Linux
 
 ```
-git clone https://github.com/ultrasecurity/Storm-Breaker
-cd Storm-Breaker
+git clone https://github.com/junayedalam09/Storm-Breaker-junayedalam09
+cd Storm-Breaker-junayedalam09
 sudo bash install.sh
 sudo python3 -m pip install -r requirements.txt
 sudo python3 st.py
